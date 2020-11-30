@@ -1,9 +1,0 @@
-{
-  "bundler": "rollup",
-  "shimport": "2.0.4",
-  "assets": {
-    "main": "client.e3573dca.js"
-  },
-  "css": {},
-  "dependencies": {}
-}
