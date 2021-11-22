@@ -15,7 +15,7 @@
     "jquery": "^3.5.1",
     "polka": "next",
     "popper.js": "^1.16.1",
-    "sirv": "^1.0.0"
+    "sirv": "1.0.18"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
